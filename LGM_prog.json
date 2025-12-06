@@ -1,0 +1,326 @@
+[
+  {
+    "date": "2025-12-09",
+    "time": "20:00",
+    "genre": "indie pop",
+    "title": "Soft Loft + Fiona Fiasco",
+    "status": "tickets; abo 1=2",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/soft-loft"
+  },
+  {
+    "date": "2025-12-11",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "UTO + Getdown Services",
+    "status": "tickets",
+    "venue_label": "Salle",
+    "url": "https://legrandmix.com/fr/agenda/getdown-services"
+  },
+  {
+    "date": "2025-12-13",
+    "time": "20:00",
+    "genre": "post rock",
+    "title": "Dirty Three",
+    "status": "tickets",
+    "venue_label": "Salle",
+    "url": "https://legrandmix.com/fr/agenda/dirty-three"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "TTSSFU + Belljars",
+    "status": "tickets; Gratuit abo",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/ttssfu"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "20:00",
+    "genre": "rap",
+    "title": "Swing + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/swing"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "20:00",
+    "genre": "rock",
+    "title": "Bass Drum of Death + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/bass-drum-death-26"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "20:00",
+    "genre": "chanson",
+    "title": "Un garçon ordinaire — Joseph d'Anvers & Aurélie Saada",
+    "status": "tickets",
+    "venue_label": "Hors les murs",
+    "url": "https://legrandmix.com/fr/agenda/un-garcon-ordinaire"
+  },
+  {
+    "date": "2026-01-31",
+    "time": "20:00",
+    "genre": "chanson",
+    "title": "Flora Fishbach + 1ère partie",
+    "status": "Complet",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/flora-fishbach"
+  },
+  {
+    "date": "2026-02-01",
+    "time": "18:00",
+    "genre": "folk",
+    "title": "Laura Veirs + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/laura-veirs"
+  },
+  {
+    "date": "2026-02-07",
+    "time": "20:00",
+    "genre": "soul",
+    "title": "The Harlem Gospel Travelers + Celia Wa (trio)",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/harlem-gospel-travelers"
+  },
+  {
+    "date": "2026-02-12",
+    "time": "19:00",
+    "genre": "indie pop",
+    "title": "Wallners (Afterwork gratuit)",
+    "status": "tickets; Gratuit",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/wallners"
+  },
+  {
+    "date": "2026-02-20",
+    "time": "20:00",
+    "genre": "indie pop",
+    "title": "Requin Chagrin + Michelle Blades",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/requinchagrin_michelle_blades"
+  },
+  {
+    "date": "2026-02-21",
+    "time": "20:00",
+    "genre": "world",
+    "title": "Zerzura + 1ère partie (Le Temps d'une Lune #10)",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/zerzura"
+  },
+  {
+    "date": "2026-02-24",
+    "time": "20:00",
+    "genre": "blues",
+    "title": "Robert Finley + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/robert_finley_26"
+  },
+  {
+    "date": "2026-02-27",
+    "time": "20:00",
+    "genre": "rock",
+    "title": "Rocket + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/rocket"
+  },
+  {
+    "date": "2026-03-05",
+    "time": "20:00",
+    "genre": "pop",
+    "title": "Austra + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/austra_26"
+  },
+  {
+    "date": "2026-03-06",
+    "time": "20:00",
+    "genre": "indie pop",
+    "title": "Sorry + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/sorry-2026"
+  },
+  {
+    "date": "2026-03-10",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "Sprints + Marathon",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/sprints"
+  },
+  {
+    "date": "2026-03-12",
+    "time": "20:00",
+    "genre": "rap",
+    "title": "James Loup + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/james-loup"
+  },
+  {
+    "date": "2026-03-18",
+    "time": "20:00",
+    "genre": "folk",
+    "title": "And Also The Trees + Catherine Graindorge",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/and-also-trees-catherine-graindorge"
+  },
+  {
+    "date": "2026-03-19",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "Miles Kane + 1ère partie",
+    "status": "Complet",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/miles-kane"
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "The Big Idea + elie Zoé",
+    "status": "tickets; abo 1=2",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/big-idea"
+  },
+  {
+    "date": "2026-03-25",
+    "time": "20:00",
+    "genre": "nu cumbia",
+    "title": "La Yegros + La Cumbia del Infinito",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/la-yegros-2026"
+  },
+  {
+    "date": "2026-03-26",
+    "time": "20:00",
+    "genre": "rap",
+    "title": "Peet + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/peet2026"
+  },
+  {
+    "date": "2026-03-28",
+    "time": "20:00",
+    "genre": "chanson",
+    "title": "Sam Sauvage + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/sam-sauvage"
+  },
+  {
+    "date": "2026-03-29",
+    "time": "18:00",
+    "genre": "indie rock",
+    "title": "The Apartments + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/the_apartments"
+  },
+  {
+    "date": "2026-04-03",
+    "time": "20:00",
+    "genre": "pop",
+    "title": "Pop Factory #8 — Anaïs MVA + Orlane + Woody",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/pop_factory_8"
+  },
+  {
+    "date": "2026-04-07",
+    "time": "20:00",
+    "genre": "psyché",
+    "title": "Yīn Yīn + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/yin-yin"
+  },
+  {
+    "date": "2026-04-09",
+    "time": "20:00",
+    "genre": "indie pop",
+    "title": "Skinshape + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/skinshape"
+  },
+  {
+    "date": "2026-04-10",
+    "time": "20:00",
+    "genre": "pop",
+    "title": "Lilly Wood and The Prick + 1ère partie",
+    "status": "tickets; Dernières places",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/lilly-wood-and-the-prick"
+  },
+  {
+    "date": "2026-04-15",
+    "time": "20:00",
+    "genre": "indie rock",
+    "title": "Memorials + Bibi Club",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/memorials_bibiclub"
+  },
+  {
+    "date": "2026-04-17",
+    "time": "20:00",
+    "genre": "soul",
+    "title": "Arma Jackson",
+    "status": "tickets",
+    "venue_label": "Production extérieure",
+    "url": "https://legrandmix.com/fr/agenda/arma-jackson"
+  },
+  {
+    "date": "2026-04-24",
+    "time": "19:00",
+    "genre": "indie pop",
+    "title": "Lézard (Afterwork gratuit)",
+    "status": "tickets; Gratuit",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/lezard"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "20:00",
+    "genre": "pop",
+    "title": "Zaoui + The Doug",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/zaoui-doug"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "20:00",
+    "genre": "folk",
+    "title": "Nick Mulvey (solo) + 1ère partie",
+    "status": "tickets",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/nick-mulvey"
+  },
+  {
+    "date": "2026-10-28",
+    "time": "20:00",
+    "genre": "pop",
+    "title": "Sports + 1ère partie",
+    "status": "tickets; abo 1=2",
+    "venue_label": "Le Grand Mix",
+    "url": "https://legrandmix.com/fr/agenda/sports"
+  }
+]
